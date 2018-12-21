@@ -1,8 +1,8 @@
 # Basic
-title: 广场上的鸽子
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Dove
+subtitle: A blog-orientation theme for Dove
+welcome_message: <a href="https://github.com/fe7s" target="_blank">Download the theme</a>
+description: Dove is a iOS developer.
 creator: <a href="https://fe7s.github.io/">@Dove</a>
 
 url: "https://fe7s.github.io/"
@@ -40,7 +40,7 @@ social:
     weibo: 
     github: fe7s
     # gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 
 
 # Google Analytics
 ga:
