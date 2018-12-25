@@ -26,7 +26,7 @@ nav:
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
-plugins: [jekyll-paginate]
+plugins: [Dove-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
@@ -40,7 +40,7 @@ social:
     weibo: 
     github: http://project.onevcat.com
     # gplus: 107108267983477358170
-    mail: 
+    mail: dove.io@outlook.com
 
 # Google Analytics
 ga:
