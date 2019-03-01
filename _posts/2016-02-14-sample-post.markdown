@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Dove’s five-year plan
-date: 2018-12-12 00:00:00.000000000 +09:00
+date: 2018-12-12 03:00:00.000000000 +09:00
 ---
-
-## Dove’s five-year plan
 
 Let me start with my recent feelings and thoughts. One week ago, a disciple of a my master (The one who will come to Beijing for postgraduate study next year) asked what she should pay attention to in her future career she was about to face, and today, One of the brothers asked me question related my job search. Now I am going to analyze my working experience based on my previous occupation history.
  
@@ -14,8 +12,8 @@ So my five-year plan is actually the same as before. These recent ideas have add
 
 The five-year plan starts from here:
 
-	1.	Learn multiple skills as much as possible by being more than one expert who knows everything of sth and sth of everything. Thus I will ensure powerful competitiveness in the industry.
-	2.	I will settle down emotionally identifying my miss right and my city in which we will buy the apartment and build our love nest.
+    1.    Learn multiple skills as much as possible by being more than one expert who knows everything of sth and sth of everything. Thus I will ensure powerful competitiveness in the industry.
+    2.	I will settle down emotionally identifying my miss right and my city in which we will buy the apartment and build our love nest.
  
 In the third year:
 
