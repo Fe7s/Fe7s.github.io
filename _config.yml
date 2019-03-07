@@ -37,10 +37,10 @@ comment:
     
 # Social
 social:
-    weibo: 
-    github: http://project.onevcat.com
+    # weibo: 
+    github: https://github.com/fe7s
     # gplus: 107108267983477358170
-    mail: dove.io@outlook.com
+    mail: Dove.HD@outlook.com
 
 # Google Analytics
 ga:
