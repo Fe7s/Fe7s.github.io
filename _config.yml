@@ -34,11 +34,10 @@ paginate_path: "page/:num/"
 comment:
     # disqus: Dove
     # duoshuo: 
-    
 # Social
 social:
     # weibo: 
-    github:fe7s
+    # github:fe7s
     # gplus: 107108267983477358170
     mail: Dove.HD@outlook.com
 
