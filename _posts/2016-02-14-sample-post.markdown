@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dove’s five-year plan
-date: 2018-12-12 03:00:00.000000000 +09:00
+date: 2018-12-12 03:00:00.000000000 +08:00
 ---
 
 Let me start with my recent feelings and thoughts. One week ago, a disciple of a my master (The one who will come to Beijing for postgraduate study next year) asked what she should pay attention to in her future career she was about to face, and today, One of the brothers asked me question related my job search. Now I am going to analyze my working experience based on my previous occupation history.
