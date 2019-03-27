@@ -26,14 +26,19 @@ date: 2019-03-09 12:00:00.000000000 +08:00
 
 ##### · const在前面
 >const int nValue； //int是const
+
 >const char *pContent; //char是const, pContent可变
+
 >const char* const pContent; //pContent和*pContent都是const
 
 ##### · const在后面，与上面的声明对等
 
 >int const nValue; //nValue是const
+
 >char const * pContent; //*pContent是const, pContent可变
+
 >char* const pContent; //pContent是const,*pContent可变
+
 >char const* const pContent; //pContent和*pContent都是const
 
 ##### 分析：
